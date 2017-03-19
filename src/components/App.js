@@ -12,7 +12,7 @@ class App extends Component {
             <h2>Welcome to a vanilla React with react-router 4</h2>
           </div>
 
-          <div className="border color-blue">
+          <div className="border color-silver">
               <Link to='/PageOne'>Go to Page One</Link>
           </div>
 
