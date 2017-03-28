@@ -25,6 +25,9 @@ body {
 .borderless {
   border: none;
 }
+.debugger {
+  text-align: left;
+}
 .App {
   text-align: center;
 }
